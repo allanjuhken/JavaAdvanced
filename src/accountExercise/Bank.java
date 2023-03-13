@@ -9,13 +9,13 @@ public class Bank {
 //        this.numOfAccounts = numOfAccounts;
 //    }
 
-    // behaviours
+    // constructor
     public Bank(int maxAccounts) {
         accounts = new Account[maxAccounts];
         numOfAccounts = 0;
     }
 
-    // lisab kontonumbri kontorn arraysse
+    // behaviours
     public void addAccount(Account account) {
         accounts[numOfAccounts] = account;
         numOfAccounts++;
