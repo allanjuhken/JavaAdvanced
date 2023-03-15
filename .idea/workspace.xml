@@ -1,13 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="exceptions added">
-      <change afterPath="$PROJECT_DIR$/src/exceptionsExcercice/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptionsExcercice/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptionsExcercice/LibraryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptionsExcercice/NoBookFoundException.java" afterDir="false" />
+    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="changes made">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/ListAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/ComponentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/ball/Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mathExerciseWithLambda/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mathExerciseWithLambda/MathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accountExercise/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/accountExercise/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfaceExampleAudio/AudioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfaceExampleAudio/AudioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfaceExampleAudio/Mp3player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfaceExampleAudio/Mp3player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfaceExampleAudio/Playable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfaceExampleAudio/Playable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterfaceExampleAudio/Wavplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfaceExampleAudio/Wavplayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstraction/abstractionExcercice/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstraction/abstractionExcercice/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstraction/abstractionExcercice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstraction/abstractionExcercice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstraction/abstractionExcercice/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstraction/abstractionExcercice/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstraction/abstractionExcercice/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstraction/abstractionExcercice/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstraction/abstractionExcercice/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstraction/abstractionExcercice/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractionExample/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractionExample/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractionExample/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractionExample/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstractionExample/ZooTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/ZooTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accountExercise/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accountExercise/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accountExercise/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/BankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accountExercise/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accountExercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/accountExercise/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/SavingsAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/ball/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/ball/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/ball/Spike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/ball/Spike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/excercice/encapsulation/inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/excercice/encapsulation/inheritance/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/excercice/encapsulation/inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/excercice/encapsulation/inheritance/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/excercice/encapsulation/inheritance/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/excercice/encapsulation/inheritance/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/CannotDivideByZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exception/CannotDivideByZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exception/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exception/ExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptionsExcercice/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExcercice/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptionsExcercice/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExcercice/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptionsExcercice/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExcercice/LibraryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptionsExcercice/NoBookFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExcercice/NoBookFoundException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +60,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -49,13 +93,26 @@
       <recent name="excercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LibraryTest">
-    <configuration name="BankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="accountExercise.BankTest" />
+  <component name="RunManager" selected="Application.ZooTest">
+    <configuration name="CollectionsExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionsSetAndListClasses.CollectionsExercise" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="accountExercise.*" />
+          <option name="PATTERN" value="collectionsSetAndListClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionsSetAndListClasses.CollectionsTest" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectionsSetAndListClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,26 +159,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abstraction.abstraction.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstraction.abstraction.Main" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="abstraction.abstraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZooTest" />
+        <item itemvalue="Application.collectionsSetAndListClasses.CollectionsTest" />
+        <item itemvalue="Application.collectionsSetAndListClasses.CollectionsExercise" />
         <item itemvalue="Application.LibraryTest" />
         <item itemvalue="Application.ExceptionTest" />
-        <item itemvalue="Application.BankTest" />
-        <item itemvalue="Application.ZooTest" />
-        <item itemvalue="Application.abstraction.abstraction.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +190,19 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1678725704662</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="exceptions exercise added">
+      <created>1678740708587</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1678740708587</updated>
+    </task>
+    <task id="LOCAL−00004" summary="changes made">
+      <created>1678740754642</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1678740754642</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +219,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commited" />
     <MESSAGE value="exceptions added" />
-    <option name="LAST_COMMIT_MESSAGE" value="exceptions added" />
+    <MESSAGE value="exceptions exercise added" />
+    <MESSAGE value="changes made" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes made" />
   </component>
 </project>

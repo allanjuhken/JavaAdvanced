@@ -1,5 +1,8 @@
 package exceptionsExcercice;
 
+import annotations.ComponentInfo;
+
+@ComponentInfo(name = "Book", date = "12-04-2020", version = 2)
 public class Book {
     int id;
     String title;

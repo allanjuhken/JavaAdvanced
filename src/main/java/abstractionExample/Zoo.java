@@ -1,5 +1,8 @@
 package abstractionExample;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Zoo {
     private Animal[] animals; //
     private int numOfAnimals; // counter for how many animals are in the current zoo

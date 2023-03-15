@@ -2,6 +2,7 @@ package encapsulation.and.inheritance;
 
 import encapsulation.and.inheritance.ball.Ball;
 import encapsulation.and.inheritance.ball.Spike;
+import encapsulation.and.inheritance.ball.Water;
 
 public class Main {
     //A class is a blueprint for creating an object.
@@ -48,32 +49,37 @@ public class Main {
 
     public static void main(String[] args) {
         //write your code here
-        Ball leatherBall = new Ball(true,40); // instance of an object
-
-        Ball rubberBall = new Ball(true,10);
-
-        Ball americanFootball = new Ball(false, 20);
-
-        leatherBall.setDiameter(4);
-        System.out.println("The diameter of the ball is: " + leatherBall.getDiameter());
-        System.out.println("The diameter of the americanfootball is: " + americanFootball.getDiameter());
-
-        leatherBall.bounce(); // a call to the INSTANCE method 'bounce'
-
-        Ball.keepBallRound();
-
-        Spike spike = new Spike(true, 20, 100);
-
-        spike.bounce();
-
-        System.out.println(spike.getNumOfSpikes(4));
-
-        System.out.println(spike.getDiameter());
-
-        spike.keepBallRound();
+//        Ball leatherBall = new Ball(true,40); // instance of an object
+//
+//        Ball rubberBall = new Ball(true,10);
+//
+//        Ball americanFootball = new Ball(false, 20);
+//
+//        leatherBall.setDiameter(4);
+//        System.out.println("The diameter of the ball is: " + leatherBall.getDiameter());
+//        System.out.println("The diameter of the americanfootball is: " + americanFootball.getDiameter());
+//
+//        leatherBall.bounce(); // a call to the INSTANCE method 'bounce'
+//
+//        Ball.keepBallRound();
+//
+//        Spike spike = new Spike(true, 20, 100);
+//
+//        spike.bounce();
+//
+//        System.out.println(spike.getNumOfSpikes(4));
+//
+//        System.out.println(spike.getDiameter());
+//
+//        spike.keepBallRound();
 
 
         //Animal animal = new Animal("Bingo");
+        Water rainWater = new Water();
+        Water springWater = new Water(true, true, true);
+
+        System.out.println(springWater.isColorless());
+        System.out.println(springWater.isTasteless());
 
     }
 }
