@@ -4,53 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="changes made">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/ListAnimals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/ComponentInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/ball/Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mathExerciseWithLambda/MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mathExerciseWithLambda/MathTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="files added and some modified">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceExampleAudio/AudioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfaceExampleAudio/AudioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceExampleAudio/Mp3player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfaceExampleAudio/Mp3player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceExampleAudio/Playable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfaceExampleAudio/Playable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterfaceExampleAudio/Wavplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/InterfaceExampleAudio/Wavplayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstraction/abstractionExcercice/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstraction/abstractionExcercice/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstraction/abstractionExcercice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstraction/abstractionExcercice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstraction/abstractionExcercice/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstraction/abstractionExcercice/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstraction/abstractionExcercice/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstraction/abstractionExcercice/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstraction/abstractionExcercice/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstraction/abstractionExcercice/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractionExample/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractionExample/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractionExample/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/Eagle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractionExample/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstractionExample/ZooTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/abstractionExample/ZooTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accountExercise/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accountExercise/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accountExercise/BankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/BankTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accountExercise/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/CheckingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accountExercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/accountExercise/SavingsAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/accountExercise/SavingsAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/ball/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/ball/Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/ball/Spike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/ball/Spike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/excercice/encapsulation/inheritance/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/excercice/encapsulation/inheritance/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/excercice/encapsulation/inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/excercice/encapsulation/inheritance/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation/and/inheritance/excercice/encapsulation/inheritance/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encapsulation/and/inheritance/excercice/encapsulation/inheritance/PersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception/CannotDivideByZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exception/CannotDivideByZeroException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exception/ExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptionsExcercice/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExcercice/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptionsExcercice/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExcercice/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptionsExcercice/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExcercice/LibraryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptionsExcercice/NoBookFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExcercice/NoBookFoundException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -83,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Academy/JavaFundamentalsCoding"
+    "last_opened_file_path": "C:/Academy/Homework1"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -93,52 +58,39 @@
       <recent name="excercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZooTest">
-    <configuration name="CollectionsExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionsSetAndListClasses.CollectionsExercise" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collectionsSetAndListClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CollectionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionsSetAndListClasses.CollectionsTest" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collectionsSetAndListClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ExceptionTest" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exception.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="LibraryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptionsExcercice.LibraryTest" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exceptionsExcercice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulation.and.inheritance.excercice.encapsulation.inheritance.PersonTest" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulation.and.inheritance.excercice.encapsulation.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercisesAllTopics.Test" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercisesAllTopics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercisesAllTopics.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercisesAllTopics.Task1" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercisesAllTopics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.exercisesAllTopics.Task1" />
         <item itemvalue="Application.ZooTest" />
-        <item itemvalue="Application.collectionsSetAndListClasses.CollectionsTest" />
-        <item itemvalue="Application.collectionsSetAndListClasses.CollectionsExercise" />
         <item itemvalue="Application.LibraryTest" />
-        <item itemvalue="Application.ExceptionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +167,13 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1678740754642</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="files added and some modified">
+      <created>1678911665595</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1678911665595</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +192,7 @@
     <MESSAGE value="exceptions added" />
     <MESSAGE value="exceptions exercise added" />
     <MESSAGE value="changes made" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes made" />
+    <MESSAGE value="files added and some modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="files added and some modified" />
   </component>
 </project>
