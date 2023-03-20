@@ -32,10 +32,10 @@ public class Queue {
 
         // Map
         /*
-        { // Key  Value
-        "David": 14,
-        "barry": 16,
-        "Larry": 18
+        { // Key   : Value
+            "David": 14,
+            "barry": 16,
+            "Larry": 18
         }
          */
 
