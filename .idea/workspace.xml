@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="files added and some modified">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Test.java" afterDir="false" />
+    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="Test class modified, asking with scanner added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ListElementQueue/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="160323" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,13 +55,13 @@
       <recent name="excercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="LibraryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptionsExcercice.LibraryTest" />
+  <component name="RunManager" selected="Application.Queue">
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulation.and.inheritance.excercice.encapsulation.inheritance.PersonTest" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptionsExcercice.*" />
+          <option name="PATTERN" value="encapsulation.and.inheritance.excercice.encapsulation.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encapsulation.and.inheritance.excercice.encapsulation.inheritance.PersonTest" />
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListElementQueue.Queue" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="encapsulation.and.inheritance.excercice.encapsulation.inheritance.*" />
+          <option name="PATTERN" value="ListElementQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Queue" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.exercisesAllTopics.Task1" />
         <item itemvalue="Application.ZooTest" />
-        <item itemvalue="Application.LibraryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +170,19 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1678911665595</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Exercises package added with five classes inside">
+      <created>1679009970551</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1679009970551</updated>
+    </task>
+    <task id="LOCAL−00007" summary="Test class modified, asking with scanner added">
+      <created>1679326955386</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1679326955386</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +202,8 @@
     <MESSAGE value="exceptions exercise added" />
     <MESSAGE value="changes made" />
     <MESSAGE value="files added and some modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="files added and some modified" />
+    <MESSAGE value="Exercises package added with five classes inside" />
+    <MESSAGE value="Test class modified, asking with scanner added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test class modified, asking with scanner added" />
   </component>
 </project>

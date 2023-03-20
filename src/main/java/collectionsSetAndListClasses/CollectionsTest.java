@@ -74,5 +74,6 @@ public class CollectionsTest {
         name.add(1, "Allan");
 
         System.out.println(name.get(1));
+
     }
 }
