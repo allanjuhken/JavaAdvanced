@@ -13,48 +13,48 @@ public class CollectionsTest {
         // The HasSet randomizes output
 
         //HashSet hashSet = new HashSet<>();
-//        Set<String> names = new HashSet<>();
-//        names.add("Bobby");
-//        names.add("Peter");
-//        names.add("Billy");
-//        names.add("Phebe");
-//        names.add("Laura");
-//
-//        Object[] theNames = names.toArray(); // teeb objekti names array
-//        //System.out.println(names.size());
-//        //System.out.println(names.contains("Bobby"));
-//
-//        System.out.println(Arrays.toString(theNames)); // print names array
-//
-//        System.out.println("=======");
-//
-//        for(String name : names){
-//            System.out.println(name);
-//        }
-//
-//        System.out.println("=======");
-//
-//        // TreeSet has built-in comparator that allows it to sort itmes/elements/objects
-//        // in ascending order.
-//
-//        Set<Integer> numbers = new TreeSet<>();
-//
-//        numbers.add(4);
-//        numbers.add(8);
-//        numbers.add(6);
-//
-//        System.out.println(numbers);
-//
-//        System.out.println("=======");
-//
-//        // LinkedHashSet is different from the other 2 in the sense that, it
-//        // maintains the order in which the items are passed in.
-//        Set<Integer> nums = new LinkedHashSet<>();
-//        nums.add(5);
-//        nums.add(3);
-//        nums.add(7);
-//
-//        System.out.println(nums);
+        Set<String> names = new HashSet<>();
+        names.add("Bobby");
+        names.add("Peter");
+        names.add("Billy");
+        names.add("Phebe");
+        names.add("Laura");
+
+        Object[] theNames = names.toArray(); // teeb objekti names array
+        //System.out.println(names.size());
+        //System.out.println(names.contains("Bobby"));
+
+        System.out.println(Arrays.toString(theNames)); // print names array
+
+        System.out.println("=======");
+
+        for(String name : names){
+            System.out.println(name);
+        }
+
+        System.out.println("=======");
+
+        // TreeSet has built-in comparator that allows it to sort itmes/elements/objects
+        // in ascending order.
+
+        Set<Integer> numbers = new TreeSet<>();
+
+        numbers.add(4);
+        numbers.add(8);
+        numbers.add(6);
+
+        System.out.println(numbers);
+
+        System.out.println("=======");
+
+        // LinkedHashSet is different from the other 2 in the sense that, it
+        // maintains the order in which the items are passed in.
+        Set<Integer> nums = new LinkedHashSet<>();
+        nums.add(5);
+        nums.add(3);
+        nums.add(7);
+
+        System.out.println(nums);
 
 
         // LIST

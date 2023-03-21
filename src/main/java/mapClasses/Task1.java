@@ -1,4 +1,4 @@
-package Queue;
+package mapClasses;
 
 import java.util.*;
 
