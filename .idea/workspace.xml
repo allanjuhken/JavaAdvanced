@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="Queue package added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Queue/Task1.java" afterDir="false" />
+    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="Enums package added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mapClasses/Phonebook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mapClasses/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Queue/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mapClasses/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,7 @@
       <list>
         <option value="AnnotationType" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -26,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="160323" />
+        <entry key="$PROJECT_DIR$" value="200323" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Academy/Homework1"
+    "last_opened_file_path": "C:/Academy/JavaFundamentalsCoding"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,7 +58,20 @@
       <recent name="excercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task1">
+  <component name="RunManager" selected="Application.mapClasses.Phonebook">
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enums.EnumTest" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enums.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="encapsulation.and.inheritance.excercice.encapsulation.inheritance.PersonTest" />
       <module name="JavaAdvanced" />
@@ -69,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.Queue" />
+    <configuration name="Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mapClasses.Phonebook" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.*" />
+          <option name="PATTERN" value="mapClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +99,11 @@
       </method>
     </configuration>
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Queue.Task1" />
+      <option name="MAIN_CLASS_NAME" value="mapClasses.Task1" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Queue.*" />
+          <option name="PATTERN" value="mapClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,26 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercisesAllTopics.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercisesAllTopics.Task1" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercisesAllTopics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Queue.Queue" />
+        <item itemvalue="Application.mapClasses.Phonebook" />
+        <item itemvalue="Application.EnumTest" />
+        <item itemvalue="Application.mapClasses.Task1" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.exercisesAllTopics.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +191,19 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1679330522047</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="Task1 added to Queue package">
+      <created>1679342278472</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1679342278472</updated>
+    </task>
+    <task id="LOCAL−00010" summary="Enums package added">
+      <created>1679427851747</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1679427851747</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,6 +226,8 @@
     <MESSAGE value="Exercises package added with five classes inside" />
     <MESSAGE value="Test class modified, asking with scanner added" />
     <MESSAGE value="Queue package added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Queue package added" />
+    <MESSAGE value="Task1 added to Queue package" />
+    <MESSAGE value="Enums package added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enums package added" />
   </component>
 </project>
