@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="Enums package added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapClasses/Phonebook.java" afterDir="false" />
+    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="Phonebook class added. Exercise using Map&lt;&gt;Treemap">
+      <change afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/EnrollmentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Major.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mapClasses/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Queue/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mapClasses/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +48,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Academy/JavaFundamentalsCoding"
+    "last_opened_file_path": "C:/Academy/JavaAdvanced/src/main/java"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Academy\JavaAdvanced\src\main\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="abstraction" />
       <recent name="encapsulation.and.inheritance" />
@@ -203,7 +206,13 @@
       <option name="presentableId" value="LOCAL−00010" />
       <updated>1679427851747</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL−00011" summary="Phonebook class added. Exercise using Map&lt;&gt;Treemap">
+      <created>1679433664471</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1679433664471</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +237,7 @@
     <MESSAGE value="Queue package added" />
     <MESSAGE value="Task1 added to Queue package" />
     <MESSAGE value="Enums package added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enums package added" />
+    <MESSAGE value="Phonebook class added. Exercise using Map&lt;&gt;Treemap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phonebook class added. Exercise using Map&lt;&gt;Treemap" />
   </component>
 </project>
