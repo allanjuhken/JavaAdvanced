@@ -21,7 +21,9 @@ public class Test {
 
         // Scanneriga person andmete küsimine:
         Scanner sc = new Scanner(System.in);
-        int count = 3;
+        System.out.println("How many employees?");
+        int count = sc.nextInt();
+
         for (int i = 0; i < count; i++) {
             System.out.println("Enter firstname: ");
             String fName = sc.next();

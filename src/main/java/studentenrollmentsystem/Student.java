@@ -20,9 +20,10 @@ public class Student {
     }
 
     public void enrollCourse(Course course){
-        if (enrolledCourses.contains(course)){
-            throw new IllegalArgumentException("Student is already in this course");
-        }enrolledCourses.add(course);
+//        if (enrolledCourses.contains(course)){
+//            throw new IllegalArgumentException("Student is already in this course");
+//        }
+        enrolledCourses.add(course);
     }
 
     public void dropCourse(Course course){
@@ -58,5 +59,4 @@ public class Student {
                 ", enrolledCourses=" + enrolledCourses +
                 '}';
     }
-
 }
