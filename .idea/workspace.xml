@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="Phonebook class added. Exercise using Map&lt;&gt;Treemap">
-      <change afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/EnrollmentSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Major.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Student.java" afterDir="false" />
+    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="studentenrollmentsystem package added.&#10;Includes StudentEnrollmentSystem exercise">
+      <change afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Academy/JavaAdvanced/src/main/java"
+    "last_opened_file_path": "C:/Academy/JavaAdvanced/src/main/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -61,26 +64,13 @@
       <recent name="excercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mapClasses.Phonebook">
+  <component name="RunManager" selected="Application.studentenrollmentsystem.Test">
     <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enums.EnumTest" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="enums.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encapsulation.and.inheritance.excercice.encapsulation.inheritance.PersonTest" />
-      <module name="JavaAdvanced" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="encapsulation.and.inheritance.excercice.encapsulation.inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="studentenrollmentsystem.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studentenrollmentsystem.Test" />
+      <module name="JavaAdvanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studentenrollmentsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.studentenrollmentsystem.Test" />
         <item itemvalue="Application.mapClasses.Phonebook" />
         <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.mapClasses.Task1" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.PersonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +215,13 @@
       <option name="presentableId" value="LOCAL−00011" />
       <updated>1679433664471</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL−00012" summary="studentenrollmentsystem package added.&#10;Includes StudentEnrollmentSystem exercise">
+      <created>1679516755691</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1679516755691</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +247,7 @@
     <MESSAGE value="Task1 added to Queue package" />
     <MESSAGE value="Enums package added" />
     <MESSAGE value="Phonebook class added. Exercise using Map&lt;&gt;Treemap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Phonebook class added. Exercise using Map&lt;&gt;Treemap" />
+    <MESSAGE value="studentenrollmentsystem package added.&#10;Includes StudentEnrollmentSystem exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="studentenrollmentsystem package added.&#10;Includes StudentEnrollmentSystem exercise" />
   </component>
 </project>

@@ -22,12 +22,12 @@ public class Course {
     // behaviours
     public void enrollStudent(Student student){
         enrolledStudents.add(student);
-        student.enrollCourse(this);
+        //student.enrollCourse(this);
     }
 
     public void removeStudent(Student student){
         enrolledStudents.remove(student);
-        student.dropCourse(this);
+        //student.dropCourse(this);
     }
 
     // getters / setters
@@ -49,14 +49,13 @@ public class Course {
         return enrolledStudents;
     }
 
-    @Override
-    public String toString() {
-        return "Course{" +
-                "name='" + name + '\'' +
-                ", courseCode='" + courseCode + '\'' +
-                ", teacherName='" + teacherName + '\'' +
-                ", enrolledStudents=" + enrolledStudents +
-                '}';
-
-    }
+//    @Override
+//    public String toString() {
+//        return "Course{" +
+//                "name='" + name + '\'' +
+//                ", courseCode='" + courseCode + '\'' +
+//                ", teacherName='" + teacherName + '\'' +
+//                ", enrolledStudents=" + enrolledStudents +
+//                '}';
+//    }
 }
