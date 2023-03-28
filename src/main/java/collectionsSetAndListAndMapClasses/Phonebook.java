@@ -1,4 +1,4 @@
-package mapClasses;
+package collectionsSetAndListAndMapClasses;
 
 import java.util.Map;
 import java.util.Scanner;

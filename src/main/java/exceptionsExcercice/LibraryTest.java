@@ -1,5 +1,7 @@
 package exceptionsExcercice;
 
+import java.sql.SQLException;
+
 public class LibraryTest {
     public static void main(String[] args) {
         try {
@@ -10,7 +12,7 @@ public class LibraryTest {
             lib.addBook(new Book(5,"There's no book","Joku Muu", "2021"));
 
             System.out.println(lib.searchBookById(5));
-        }catch (NoBookFoundException e){
+        }catch (NoBookFoundException e) {
             System.out.println(e.getMessage());
         }
     }

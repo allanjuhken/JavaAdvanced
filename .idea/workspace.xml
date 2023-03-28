@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="studentenrollmentsystem package added.&#10;Includes StudentEnrollmentSystem exercise">
-      <change afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Test.java" afterDir="false" />
+    <list default="true" id="78fae1e4-b39d-4af9-9ded-3c68b80ac2e8" name="Changes" comment="Added Test to StudentEnrollmentSystem">
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/files/Files.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercisesAllTopics/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/studentenrollmentsystem/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListAndMapClasses/CollectionsExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/collectionsSetAndListClasses/CollectionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListAndMapClasses/CollectionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enums/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enums/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exceptionsExcercice/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exceptionsExcercice/LibraryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapClasses/Phonebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListAndMapClasses/Phonebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapClasses/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListAndMapClasses/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mapClasses/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collectionsSetAndListAndMapClasses/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +55,18 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Academy/JavaAdvanced/src/main/java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Academy\JavaAdvanced\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Academy\JavaAdvanced" />
+      <recent name="C:\Academy\JavaAdvanced\src\main\resources" />
+      <recent name="C:\Academy\JavaAdvanced\target" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="abstraction" />
@@ -64,7 +74,7 @@
       <recent name="excercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.studentenrollmentsystem.Test">
+  <component name="RunManager" selected="Application.Files">
     <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enums.EnumTest" />
       <module name="JavaAdvanced" />
@@ -78,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapClasses.Phonebook" />
+    <configuration name="Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="files.Files" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapClasses.*" />
+          <option name="PATTERN" value="files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mapClasses.Task1" />
+    <configuration name="collectionsSetAndListAndMapClasses.Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionsSetAndListAndMapClasses.Phonebook" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mapClasses.*" />
+          <option name="PATTERN" value="collectionsSetAndListAndMapClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercisesAllTopics.Test" />
+    <configuration name="collectionsSetAndListAndMapClasses.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionsSetAndListAndMapClasses.Task1" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercisesAllTopics.*" />
+          <option name="PATTERN" value="collectionsSetAndListAndMapClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Files" />
         <item itemvalue="Application.studentenrollmentsystem.Test" />
-        <item itemvalue="Application.mapClasses.Phonebook" />
+        <item itemvalue="Application.collectionsSetAndListAndMapClasses.Phonebook" />
         <item itemvalue="Application.EnumTest" />
-        <item itemvalue="Application.mapClasses.Task1" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.collectionsSetAndListAndMapClasses.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +231,13 @@
       <option name="presentableId" value="LOCAL−00012" />
       <updated>1679516755691</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL−00013" summary="Added Test to StudentEnrollmentSystem">
+      <created>1679583946314</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1679583946314</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +264,7 @@
     <MESSAGE value="Enums package added" />
     <MESSAGE value="Phonebook class added. Exercise using Map&lt;&gt;Treemap" />
     <MESSAGE value="studentenrollmentsystem package added.&#10;Includes StudentEnrollmentSystem exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="studentenrollmentsystem package added.&#10;Includes StudentEnrollmentSystem exercise" />
+    <MESSAGE value="Added Test to StudentEnrollmentSystem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Test to StudentEnrollmentSystem" />
   </component>
 </project>
