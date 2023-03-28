@@ -1,6 +1,8 @@
 package enums;
 
 import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class EnumTest {
@@ -24,5 +26,12 @@ public class EnumTest {
 
         //Stream.of(FoodMenu.values()).forEach(value -> System.out.println(value));
         Stream.of(FoodMenu.values()).forEach(System.out::println); // syntactical sugar
+        List<String> words = Stream
+                .of(FoodMenu.values())
+                .filter(value-> !value.equals(FoodMenu.LUNCH))
+                .map(value -> value.getAppetizer()) // map(FoodMenu::getAppetizer)
+                .collect(Collectors.toList()); // syntactical sugar
+
+        System.out.println(words);
     }
 }

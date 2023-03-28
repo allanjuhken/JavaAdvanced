@@ -1,4 +1,4 @@
-package collectionsSetAndListClasses;
+package collectionsSetAndListAndMapClasses;
 
 import java.util.*;
 

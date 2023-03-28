@@ -1,4 +1,4 @@
-package collectionsSetAndListClasses;
+package collectionsSetAndListAndMapClasses;
 
 import java.util.*;
 
@@ -8,9 +8,9 @@ public class CollectionsTest {
         // The Set interface is used for unique elements
         // ( If you pass in duplicate values, they will be treated as one value or element
 
-        // HasSet is an implementation of the SET interface that is not
+        // HashSet is an implementation of the SET interface that is not
         // ordered, meaning that there's no indexing like we are used to with Arrays
-        // The HasSet randomizes output
+        // The HashSet randomizes output
 
         //HashSet hashSet = new HashSet<>();
         Set<String> names = new HashSet<>();
